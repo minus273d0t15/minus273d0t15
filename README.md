@@ -21,7 +21,7 @@ public class Minus273dot15 {
         this.code.put("backend", List.of("Java", "PHP"));
         this.code.put("database", List.of("NoSQL", "MySQL", "MsSQL"));
         this.code.put("devops", List.of("Linux", "MS Server", "Proxmox", "Citrix", "Hyper-V"));
-        this.code.put("frontend", List.of("HTML", "CSS", "Boostrap"));
+        this.code.put("frontend", List.of("HTML", "CSS", "Boostrap", "Thymeleaf"));
         this.code.put("tools", List.of("GIT", "GitHub", "GitLab"));
         this.code.put("misc", List.of("Perl", "PowerShell", "IIS", "Networking"));
         this.architecture = List.of("MVC");
